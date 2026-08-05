@@ -1,0 +1,5 @@
+Trigger GitHub Pages build
+
+This empty file was added to trigger the Pages build after adding .jekyllignore to prevent Jekyll parsing of node_modules.
+
+Timestamp: 2026-08-05T
